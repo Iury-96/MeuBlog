@@ -1,0 +1,23 @@
+.textos1{
+   font-weight: bold !important;
+   color: black;
+}
+
+.imagem{
+    background-image: url(https://smastr16.blob.core.windows.net/cea/sites/7/2020/09/educacao.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+.botao{
+    color: red;
+}
+.cor-fundo{
+    background-color: rgb(1, 51, 34);
+}
